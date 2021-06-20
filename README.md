@@ -8,4 +8,4 @@ New branch.
 
 add figure 1.png
 
-main for conflict
+new for conflict
