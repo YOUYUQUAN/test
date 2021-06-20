@@ -8,6 +8,8 @@ New branch.
 
 add figure 1.png
 
-new for conflict
+new for conflict 777
 
 commit
+
+for diff
