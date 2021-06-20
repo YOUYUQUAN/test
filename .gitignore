@@ -1,2 +1,5 @@
 log.txt
 ipynb_checkpoints
+
+data/*
+!data/1_test.csv
