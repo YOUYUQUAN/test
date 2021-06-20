@@ -1,3 +1,3 @@
 # Hello world
 
-$$ \frac{1}{2}$$
+Hello this world.
